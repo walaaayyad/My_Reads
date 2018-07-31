@@ -5,13 +5,13 @@
 
 ### About Project
 This is my first work with React..I worked on this app by helpfull study jam that provided from Udacity students
-https://www.youtube.com/watch?v=i6L2jLHV9j8
-https://www.youtube.com/watch?v=yxLIPAd1-YM&index=5&list=LL-ylX16M7KwUkVJtns7StUA&t=1s
+- https://www.youtube.com/watch?v=i6L2jLHV9j8
+- https://www.youtube.com/watch?v=yxLIPAd1-YM&index=5&list=LL-ylX16M7KwUkVJtns7StUA&t=1s
 
 ### About Project
 This project provides you a library of new books.
 Make search to find your favorite books, and add them to your page.
-This page has categorized to three shelves [ **Want to read , Currently readind ,and read** ].
+This page has categorized to three shelves [ **Want To Read , Currently Readind ,and Read** ].
 
 ### How To Install
 1. Clone or download the project on your PC
