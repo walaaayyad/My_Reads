@@ -1,7 +1,7 @@
 # My_Reads
 
 
-## Udacity Front-End Nanodegree program seventh Project
+## Udacity Front-End Nanodegree program (seventh Project)
 
 ### About Project
 This is my first work with React..I worked on this app by helpfull study jam that provided from Udacity students
