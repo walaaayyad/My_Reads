@@ -5,6 +5,8 @@
 
 ### About Project
 This is my first work with React..I worked on this app by helpfull study jam that provided from Udacity students
+https://www.youtube.com/watch?v=i6L2jLHV9j8
+https://www.youtube.com/watch?v=yxLIPAd1-YM&index=5&list=LL-ylX16M7KwUkVJtns7StUA&t=1s
 
 ### About Project
 This project provides you a library of new books.
